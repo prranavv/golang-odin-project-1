@@ -1,0 +1,1 @@
+This is a basic golang implementation of serving html files to localhost using the chi router
